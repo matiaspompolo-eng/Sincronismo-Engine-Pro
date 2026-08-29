@@ -3,7 +3,7 @@ Sincronismo Engine Pro
 Sincronismo Engine Pro es una aplicación desarrollada en Python orientada al análisis, generación y edición de señales de sincronismo automotriz CKP (Crankshaft Position) y CMP (Camshaft Position).
 La aplicación permite trabajar con señales de sensores de posición del motor a partir de oscilogramas reales, así como crear patrones de forma manual y realizar ajustes sobre las señales generadas.
 
-Objetivo del proyecto
+Objetivo del proyecto\n
 El objetivo de Sincronismo Engine Pro es proporcionar una herramienta orientada al ámbito de la diagnosis electrónica automotriz, facilitando el trabajo con señales de sincronización de motor y permitiendo experimentar con diferentes patrones CKP/CMP.
 La aplicación puede resultar especialmente útil para diagnóstico, análisis de oscilogramas, generación de señales de prueba y estudio del sincronismo del motor.
 
